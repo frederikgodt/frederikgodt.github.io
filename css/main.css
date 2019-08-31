@@ -1,24 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@frederikgodt 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
- 
-1
-0 0 martinvinaes/martinvinaes.github.io
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights
-martinvinaes.github.io/stylesheets/styles.css
-@martinvinaes martinvinaes Update styles.css
-1ced773 29 days ago
-326 lines (272 sloc)  5.81 KB
     
 @font-face {
   font-family: 'Noto Sans';
@@ -77,11 +57,8 @@ martinvinaes.github.io/stylesheets/styles.css
 }
 
 body {
-  background-color: #fff;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+    margin: 60px auto;
+    width: 70%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -345,13 +322,7 @@ footer {
     color:#444;
   }
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
+
 Pricing
 API
 Training
